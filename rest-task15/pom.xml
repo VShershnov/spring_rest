@@ -6,7 +6,7 @@
 		<artifactId>rest-training</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>rest-task14</artifactId>
+	<artifactId>rest-task15</artifactId>
 
 	<dependencies>
 		<dependency>
